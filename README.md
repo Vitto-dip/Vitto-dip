@@ -5,7 +5,7 @@
 - 🙈 Com Back-end: JavaScrip, CSharp e API.
 - 🏛️ Banco de Dados: MySQL.
 - 😶‍🌫️ Trabalhando com projetos Full-Stack.
-- 🙂 Contete-me.
+- 🙂 Contate-me.
 - 🎈 Pronouns: ele/dele.
 
 ##
