@@ -1,7 +1,7 @@
 ### Bem-Vindo!, eu sou Victor 👋
 
 - 🔭 Estou entrando na área de programação.
-- 😮 Em Front-end me envolvi com: HTML, CSS e JSX.
+- 😮 Em Front-end me envolvi com: HTML, CSS e React.
 - 🙈 Com Back-end: JavaScrip, CSharp e API.
 - 🏛️ Banco de Dados: MySQL.
 - 😶‍🌫️ Trabalhando com projetos Full-Stack.
