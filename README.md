@@ -1,8 +1,8 @@
 ### Bem-Vindo!, eu sou Victor 👋
 
 - 🔭 Estou entrando na área de programação.
-- 😮 Em Front-end me envolvi com: HTML, CSS e React.
-- 🙈 Com Back-end: JavaScrip, CSharp e API.
+- 😮 Em Front-end me envolvi com: HTML, CSS, React e Sass.
+- 🙈 Com Back-end: JavaScript, CSharp e API.
 - 🏛️ Banco de Dados: MySQL.
 - 😶‍🌫️ Trabalhando com projetos Full-Stack.
 - 🙂 Contate-me.
@@ -19,9 +19,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ##
