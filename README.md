@@ -13,7 +13,6 @@
 <div align="center">
   <a href="https://github.com/Vitto-dip" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitto-dip&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <br>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitto-dip&layout=compact&langs_count=7&theme=midnight-purple" />
 </div>
 
