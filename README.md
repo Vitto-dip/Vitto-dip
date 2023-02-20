@@ -3,9 +3,8 @@
 - 🔭 Estou entrando na área de programação.
 - 😮 Em Front-end me envolvi com: HTML, CSS, React e Sass.
 - 🙈 Com Back-end: JavaScript, CSharp e API.
-- 🏛️ Banco de Dados: MySQL.
-- 😶‍🌫️ Trabalhando com projetos Full-Stack.
-- 🙂 Contate-me.
+- 🏛️ Banco de Dados: MySQL, MongoDB.
+- 😶‍🌫️ Desenvolvendo projetos Full-Stack.
 - 🎈 Pronouns: ele/dele.
 
 ##
